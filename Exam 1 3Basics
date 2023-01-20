@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-20T02:18:47.931Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="54b8oHyyJiPPuXMMhHqd" version="20.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-20T02:20:48.091Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="4UYC0J_0J2__vM99-BYK" version="20.8.8" type="github">
   <diagram name="Page-1" id="Mx5-hH8sA3tbnzChe0OI">
     <mxGraphModel dx="1280" dy="1031" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -31,11 +31,8 @@
         <mxCell id="P3BxxcB02tyETFtO4yEj-5" value="집에 돌아온다" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="60" y="580" width="145" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="P3BxxcB02tyETFtO4yEj-13" value="순차 구조" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="57.5" y="40" width="175" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="P3BxxcB02tyETFtO4yEj-14" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="95" y="150" width="100" height="70" as="geometry" />
+        <mxCell id="P3BxxcB02tyETFtO4yEj-13" value="순차 구조" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="46.25" y="190" width="175" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P3BxxcB02tyETFtO4yEj-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="P3BxxcB02tyETFtO4yEj-15" target="P3BxxcB02tyETFtO4yEj-17">
           <mxGeometry relative="1" as="geometry" />
@@ -87,18 +84,6 @@
         </mxCell>
         <mxCell id="P3BxxcB02tyETFtO4yEj-22" value="진라면을 산다" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="460" y="570" width="150" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="P3BxxcB02tyETFtO4yEj-30" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="257.5" y="40" width="175" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="P3BxxcB02tyETFtO4yEj-31" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;rotation=120;" vertex="1" parent="1">
-          <mxGeometry x="257.5" y="220" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="P3BxxcB02tyETFtO4yEj-32" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;rotation=60;" vertex="1" parent="1">
-          <mxGeometry x="340" y="220" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="P3BxxcB02tyETFtO4yEj-33" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="295" y="130" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="P3BxxcB02tyETFtO4yEj-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P3BxxcB02tyETFtO4yEj-36" target="P3BxxcB02tyETFtO4yEj-39">
           <mxGeometry relative="1" as="geometry" />
@@ -180,6 +165,12 @@
         </mxCell>
         <mxCell id="P3BxxcB02tyETFtO4yEj-56" value="시작" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="637.5" y="1010" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="P3BxxcB02tyETFtO4yEj-61" value="선택 구조" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="338" y="190" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P3BxxcB02tyETFtO4yEj-62" value="반복 구조" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="675" y="190" width="175" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
